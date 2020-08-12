@@ -1,0 +1,11 @@
+Server:
+- Para criar o projeto:
+    yarn init -y
+- Para instalar o Typescript como dependência de desenvolvimento:
+    yarn add typescript -D
+- Para criar o arquivo de configuração do Typescript
+    yarn tsc --init
+- Para instalar a dependência do Typescript que executa o servidor
+    yarn add ts-node-dev -D
+
+Vídeo 2 assistido até 2:06:00
