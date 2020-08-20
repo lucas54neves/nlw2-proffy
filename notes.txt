@@ -8,4 +8,4 @@ Server:
 - Para instalar a dependência do Typescript que executa o servidor
     yarn add ts-node-dev -D
 
-Vídeo 2 assistido até 2:06:00
+Vídeo 3 assistido até 0:22:45
